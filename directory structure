@@ -1,0 +1,12 @@
+src/
+  assets/
+  components/
+    Board.js
+    TicketCard.js
+    GroupingSelector.js
+    SortSelector.js
+  styles/
+    App.css
+    Board.css
+    TicketCard.css
+  App.js

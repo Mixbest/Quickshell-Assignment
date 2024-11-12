@@ -1,0 +1,9 @@
+.ticket-card p {
+    font-size: 14px;
+    margin: 5px 0;
+  }
+  
+  .ticket-card span {
+    font-weight: bold;
+  }
+  
